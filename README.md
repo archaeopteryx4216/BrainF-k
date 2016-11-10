@@ -1,2 +1,2 @@
 # BrainF-k
-An interpreter fir the BrainF**k language
+An interpreter for the BrainF**k language
